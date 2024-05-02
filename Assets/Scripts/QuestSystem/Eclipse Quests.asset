@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5638c489dcaa74f8dd62d5dabe4b1f, type: 3}
+  m_Name: Eclipse Quests
+  m_EditorClassIdentifier: 
+  myQuests:
+  - {fileID: 11400000, guid: 5ff187e9f130bde4290bf893727821e5, type: 2}
+  - {fileID: 11400000, guid: 72ff4d81ca9aac9419a1eb84f3f1d9c3, type: 2}
+  - {fileID: 11400000, guid: 0b930df9767c18441a9a2c9517619ce9, type: 2}
+  - {fileID: 11400000, guid: b30fbf6dba91ac644aa7f8e05d82605c, type: 2}

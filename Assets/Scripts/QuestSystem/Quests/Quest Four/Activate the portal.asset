@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f362886c57c0945b2c0949c83337b4, type: 3}
+  m_Name: Activate the portal
+  m_EditorClassIdentifier: 
+  isComplete: 0
+  description: Activate the Portal
+  requiredAmount: 1
+  currentAmount: 0
+  OnGoalComplete: {fileID: 11400000, guid: fad624bc313622e498beea30cee457ed, type: 2}
+  onAlertGoal: {fileID: 11400000, guid: e11487a4262a94f48bcdfcd5b12383b4, type: 2}
